@@ -1,6 +1,6 @@
 ## スキッドステアリングロボット(SSR)のBody data
 
-inkscapeで作成したSSR2のsvgファイルです．
+[inkscape](https://inkscape.org/ja/)で作成したSSR2のsvgファイルです．
 inkscapeで開けば編集できます．
 
 線は1.5mmのエンドミルで切り出すことを考えて，1.5mmの太さで描かれています．
