@@ -30,9 +30,9 @@ svgファイルからpycamなどでngcファイルに変換すると，CNCにか
 
 下部の２本の長ネジは，ホイールの軸も兼ねます．
 軸は固定し回転しません．
-[24Tメインギア](https://github.com/HondaLab/SSR2/blob/main/Gear60mm_18T_5d.svg)を通して，ホイールが回転します．
+[24Tメインギア](https://github.com/HondaLab/SSR2/blob/main/gear80c_24T.svg)を通して，ホイールが回転します．
 
-24Tメインギアは[18Tホイールギア](https://github.com/HondaLab/SSR2/blob/main/gear80c_24T.svg)と咬合しているので，
+24Tメインギアは[18Tホイールギア](https://github.com/HondaLab/SSR2/blob/main/Gear60mm_18T_5d.svg)と咬合しているので，
 前後のホイールが同時に同じ方向に回転する構造です．
 
 24Tメインギアは連続回転サーボで回転させています．
