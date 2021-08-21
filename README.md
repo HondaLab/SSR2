@@ -24,7 +24,7 @@ svgファイルからpycamなどでngcファイルに変換すると，CNCにか
 ## 組み立て
 基本構造は，4本の4mmΦ長ネジで左右の[サイドパネル](https://github.com/HondaLab/SSR2/blob/main/Side115f.svg)を連結するだけです．
 [底面](https://github.com/HondaLab/SSR2/blob/main/bttm3a.svg)と
-[インターフェイス基盤](https://github.com/HondaLab/SSR2/blob/main/base77_1a.svg)の
+[インターフェイス基盤](https://github.com/HondaLab/SSR2/blob/main/base77.svg)の
 幅が77mmですので，サイドパネルの内ー内間隔を77mmになるように
 底面と，インターフェイス基板を挟み込みます．
 
