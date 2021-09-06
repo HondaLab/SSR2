@@ -3,6 +3,8 @@
 [inkscape](https://inkscape.org/ja/)で作成したSSR2のsvgファイルです．
 inkscapeで開けば編集できます．
 
+<img src='https://github.com/HondaLab/2D_OVTurning/blob/main/SSR2.JPG' width=600>
+
 線は1.5mmのエンドミルで切り出すことを考えて，1.5mmの太さで描かれています．
 svgファイルからpycamなどでngcファイルに変換すると，CNCにかけることができます．
 
@@ -14,7 +16,7 @@ svgファイルからpycamなどでngcファイルに変換すると，CNCにか
 などがちょうど良いでしょう．
 高価ですが，カーボンやアルミの板でも作成可能だと思います．
 
-<img src='https://github.com/HondaLab/2D_OVTurning/blob/main/SSR2.JPG' width=600>
+
 
 ### 4mmΦの長ネジ
 で２枚のサイドパネルを連結するだけです．
