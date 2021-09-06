@@ -43,6 +43,8 @@ svgファイルからpycamなどでngcファイルに変換すると，CNCにか
 を搭載して，カメラ，センサー，サーボを制御します．
 
 i-基板はユニバーサル基板からCNCで切り出して利用します．
+<img src='https://github.com/HondaLab/SSR2/blob/main/pics/i-board-exp1up.jp' width=600>
+<img src='https://github.com/HondaLab/SSR2/blob/main/pics/i-board-exp1down.jp' width=600>
 
 電源はDC-DCコンバータを使って5Vをラズパイに供給します．
 また，2A以上出力できるモバイルバッテリーがあれば，USBで5V給電しても，動作します．
