@@ -49,6 +49,10 @@ i-基板はユニバーサル基板からCNCで切り出して利用します．
 <img src='https://github.com/HondaLab/SSR2/blob/main/pics/i-board-exp1down.jpg' width=600>
 
 電源はDC-DCコンバータを使って5Vをラズパイに供給します．
+[HiLetgo 3個セット 5A DC-DCステップダウン](https://www.amazon.co.jp/gp/product/B010RYGGJC/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)
+このコンバータで１年ぐらいラズパイに電源供給していますが，異常発熱などは今の所起こっていません．
+
+
 また，2A以上出力できるモバイルバッテリーがあれば，USBで5V給電しても，動作します．
 ただし，ラズパイ4は3A給電することが推奨されているので注意してください．
 
